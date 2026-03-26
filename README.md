@@ -45,6 +45,8 @@ Prepared a case study on UPI/Online Payment Fraud and created a “Stay Safe Onl
 ---
 
 ## 📂 Repository Structure
+
+```
 digital-literacy-project/
 │
 ├── README.md
@@ -54,7 +56,7 @@ digital-literacy-project/
 ├── task-3-platforms/
 ├── task-4-email-etiquette/
 └── task-5-cybercrime/
-
+```
 ---
 
 ## 🛠️ Tools & Platforms Used
